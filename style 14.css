@@ -1,0 +1,32 @@
+body {
+    background-color: #1F314F;  
+}
+
+section {
+    font-family: Outfit;
+}
+
+h1 {
+    font-size: 22px;
+    font-style: bold;
+    color: #1F314F;
+}
+
+p {
+    font-size: 15px;
+    color: #7D889E;
+}
+
+.box-1 {
+    width: 320px;
+    height: 497px;
+    background: white;
+    border-radius: 20px;
+}
+
+.box-2 {
+    width: 288px;
+    height: 288px;
+    background: #1F314F;
+    border-radius: 10px;
+}
